@@ -139,7 +139,7 @@ Estudante de Desenvolvimento Full Stack e atleta de Taekwondo.
 ### GitHub
 
 ```text
-https://github.com/SEU-USUARIO
+https://github.com/ArthurPutrique
 ```
 
 ---
